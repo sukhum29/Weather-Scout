@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/sukhum29/weather-web.git
+git clone https://github.com/sukhum29/Weather-Scout.git
 Change to the project directory:
 bash
 Copy code
